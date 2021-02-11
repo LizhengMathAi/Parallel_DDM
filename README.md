@@ -20,7 +20,7 @@ scipy==1.5.2
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin2d.png" />
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target2d.png" />
 2D demo 
-<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin3d.png" />
+<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin3d-1.png" />
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target3d.png" />
 
 <h1><b>Relevant Knowledge</b></h1>
