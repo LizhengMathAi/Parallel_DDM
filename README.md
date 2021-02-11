@@ -16,11 +16,13 @@ numpy==1.19.2<br>
 scipy==1.5.2
 
 <h1><b>Demo</b></h1>
-2D demo 
+The original 2D grid 
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin2d.png" />
+The target 2D grid
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target2d.png" />
-2D demo 
+The original 3D grid 
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin3d-1.png" />
+The target 3D grid
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target3d.png" />
 
 <h1><b>Relevant Knowledge</b></h1>
