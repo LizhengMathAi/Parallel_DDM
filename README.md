@@ -16,8 +16,9 @@ numpy==1.19.2<br>
 scipy==1.5.2
 
 <h1><b>Demo</b></h1>
-This demo will show the solution of following problem and its <a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/5.png" /></a> error
-<a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/5-5.png" /></a>
+2D demo 
+<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin2d.png" />
+<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target2d.png" />
 In 3-dimensional case, <a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/7.png" /></a> and<br>
 <a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/8.png" /></a>
 In 2-dimensional case,<br>
