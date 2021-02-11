@@ -19,13 +19,9 @@ scipy==1.5.2
 2D demo 
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin2d.png" />
 <img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target2d.png" />
-In 3-dimensional case, <a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/7.png" /></a> and<br>
-<a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/8.png" /></a>
-In 2-dimensional case,<br>
-<a><img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/9.png" /></a>
-Here are some results.
-<img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/2d.png" /><br>
-<img src="https://github.com/LizhengMathAi/symbol_FEM/blob/main/src/3d.png" />
+2D demo 
+<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/origin3d.png" />
+<img src="https://github.com/LizhengMathAi/Parallel_DDM/blob/main/src/target3d.png" />
 
 <h1><b>Relevant Knowledge</b></h1>
 <ul>
