@@ -6,7 +6,7 @@ from matplotlib.collections import PolyCollection
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
-from static.algorithms.domain_decomposition_methods import utils
+import utils
 
 
 class Canvas:
